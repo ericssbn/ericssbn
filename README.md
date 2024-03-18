@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h1>Me chamo Eric</h1>
+<br>
+<br>
+<p>Tenho 22 anos, no momento trabalho como auxiliar administrativo. Estou estudando programação no curso <a href="https://rodolfomori.com.br/devclub/">DevClub.</a></p>
+
+
 <!--
 **ericssbn/ericssbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
